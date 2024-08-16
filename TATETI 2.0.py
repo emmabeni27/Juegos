@@ -1,5 +1,5 @@
 import random
-
+#probabilidad
 inicio = [["_", "_", "_"], ["_", "_", "_"], ["_", "_", "_"]]
 for linea in inicio:
     print(linea)
